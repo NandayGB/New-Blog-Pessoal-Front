@@ -45,8 +45,8 @@ Gabriel Nascimento
 
 ## 👩‍💻👨‍💻 Redes sociais
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](COLOCAR O LINK DO YOUTUBE DA GREENGEEN JÁ NO VIDEO)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/greengen_72/?igsh=MTdjNDU1Z2hkd2libg%3D%3D)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@greengen72)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/greengen.72/?next=%2F)
 
 🎯 Status do projeto
 ✔️ Finalizado.✔️
